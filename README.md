@@ -11,6 +11,10 @@
 
 ---
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6da61dfe-1abe-4a92-b795-1124e0aa815d" />
+
+
+
 ## Table of Contents
 
 1. [Why odoo_model_generator?](#why)
