@@ -1,0 +1,43 @@
+name: odoo_model_generator
+description: >
+  Build full Odoo modules in seconds using a fluent Dart API. Generate models, views, manifests, and security files automatically.
+
+version: 2.0.0
+repository: https://github.com/Brah-Timo/odoo_model_generator
+issue_tracker: https://github.com/oBrah-Timo/odoo_model_generator/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path: ^1.9.0
+  yaml: ^3.1.2
+  json_annotation: ^4.9.0
+  collection: ^1.18.0
+  meta: ^1.17.0
+  args: ^2.5.0
+  dart_style: ^3.1.7
+  logging: ^1.2.0
+  archive: ^3.6.1
+  crypto: ^3.0.5
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.25.0
+  mockito: ^5.4.4
+  build_runner: ^2.4.13
+  json_serializable: ^6.8.0
+  coverage: ^1.9.0
+
+executables:
+  oomg: oomg
+
+topics:
+  - odoo
+  - code-generation
+  - erp
+  - productivity
+  - automation
